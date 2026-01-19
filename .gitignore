@@ -1,0 +1,22 @@
+## 📄 Sobre o arquivo `.gitignore`
+
+#O arquivo `.gitignore` define quais arquivos e pastas **não devem ser enviados para o GitHub**.  
+#Ele é utilizado para evitar que o repositório armazene arquivos desnecessários, gerados automaticamente ou que contenham informações sensíveis.
+
+
+
+# Dependências
+node_modules/
+
+# Build do Next.js
+.next/
+
+# Variáveis de ambiente (segredos)
+.env
+.env.local
+.env.production
+.env.development
+
+# Sistema
+.DS_Store
+Thumbs.db
