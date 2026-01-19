@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/cover.png" alt="Já Morei - Descubra como é morar de verdade" />
+</p>
+
 # Já Morei 🏙️
 
 Plataforma que utiliza comentários de pessoas que já moraram em um bairro ou rua
