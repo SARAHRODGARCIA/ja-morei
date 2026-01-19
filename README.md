@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="public/cover.png" alt="Já Morei - Descubra como é morar de verdade" />
+  <img src="https://github.com/user-attachments/assets/3bf7f282-3995-4098-b8d4-7162c90e3c28" alt="Já Morei - Descubra como é morar de verdade" />
 </p>
+
 
 # Já Morei 🏙️
 
